@@ -1,0 +1,3 @@
+/Users/lexolordan/CLionProjects/formal_languages_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lexolordan/CLionProjects/formal_languages_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lexolordan/CLionProjects/formal_languages_2/cmake-build-debug/CMakeFiles/formal_languages_2.dir

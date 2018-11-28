@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../library/library.h
+vector
+-
+iostream
+-
+set
+-
+
+/Users/lexolordan/CLionProjects/formal_languages_2/main.cpp
+iostream
+-
+library.h
+/Users/lexolordan/CLionProjects/formal_languages_2/library.h
+
